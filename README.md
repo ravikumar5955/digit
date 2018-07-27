@@ -1,2 +1,2 @@
 # digit
-repository for digitgame
+repository for digitgame .for learning purpose
