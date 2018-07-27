@@ -1,2 +1,3 @@
 my first textfile
 modified 1
+modified2
